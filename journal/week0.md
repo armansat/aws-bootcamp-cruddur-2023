@@ -1,6 +1,6 @@
 ### Week 0 — Billing and Architecture
 
-• I made an AWS account for Bootcamp. 
+• I created an AWS account for Bootcamp. 
 
 • I made a Github repository (which you are currently reading from).
 
@@ -12,7 +12,7 @@
 
 • I watched a video by Chirag on the considerations to keep in mind when spending money during the bootcamp.
 
-• I also watched a video by Ashish on security considerations during the bootcamp. Furthermore, I had previously set up an AWS Organization and made the Bootcamp account as a subaccount. I wrote an article about it. Additionally, I enabled MFA for the root user and reviewed my IAM policies for any changes. I confirmed that none of my policies were affected and needed to be updated.
+• I also watched a video by Ashish on security considerations during the bootcamp. Furthermore, I had previously set up an AWS Organization and made the Bootcamp account as a subaccount. Additionally, I enabled MFA for the root user and reviewed my IAM policies for any changes. I confirmed that none of my policies were affected and needed to be updated.
 
 • I created an IAM Admin user with a unique login alias and also generated an Access Key/Secret pair for this user. Additionally, I tried using the AWS CloudShell. I installed the AWS CLI for Gitpod by following a video tutorial. I manually installed it and also edited the ".gitpod.yml" file to ensure that it automatically installs if the environment restarts.
 
